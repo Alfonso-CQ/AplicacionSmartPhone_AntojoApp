@@ -1,0 +1,91 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.86"
+        android:scaleY="0.86">
+
+        <!-- plato -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.95"
+            android:pathData="M54,57 m-34,13 a34,13 0 1,0 68,0 a34,13 0 1,0 -68,0" />
+
+        <!-- pan inferior -->
+        <path
+            android:fillColor="#FFA726"
+            android:pathData="M25,62
+                L83,62
+                A2,2 0 0 1 85,64
+                L85,68
+                A14,10 0 0 1 71,78
+                L37,78
+                A14,10 0 0 1 23,68
+                L23,64
+                A2,2 0 0 1 25,62
+                Z" />
+
+        <!-- lechuga -->
+        <path
+            android:fillColor="#8BC34A"
+            android:pathData="M23,58
+                L85,58
+                L85,61
+                L81,63 L77,60.5 L73,63 L69,60.5 L65,63 L61,60.5 L57,63 L53,60.5 L49,63 L45,60.5 L41,63 L37,60.5 L33,63 L29,60.5 L23,63
+                Z" />
+
+        <!-- carne -->
+        <path
+            android:fillColor="#6D4C41"
+            android:pathData="M23,50
+                A2,2 0 0 1 25,48
+                L83,48
+                A2,2 0 0 1 85,50
+                L85,55
+                A2,2 0 0 1 83,57
+                L25,57
+                A2,2 0 0 1 23,55
+                Z" />
+
+        <!-- queso -->
+        <path
+            android:fillColor="#FFEB3B"
+            android:pathData="M25,45
+                L83,45
+                L83,48
+                L79,52 L75,47.5 L71,51 L67,47.5 L63,50.5 L59,47.5 L55,50 L51,47.5 L47,50.5 L43,47.5 L39,51 L35,47.5 L31,52 L27,48
+                Z" />
+
+        <!-- pan superior -->
+        <path
+            android:fillColor="#FFB74D"
+            android:pathData="M24,45
+                A30,17 0 0 1 84,45
+                Z" />
+        <path
+            android:fillColor="#FB8C00"
+            android:pathData="M24,45 L84,45 L84,47 A2,2 0 0 1 82,49 L26,49 A2,2 0 0 1 24,47 Z" />
+
+        <!-- semillas de ajonjolí -->
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M40,34 m-2,-1.1 l4,0 l0,2.2 l-4,0 Z" />
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M54,30 m-2,-1.1 l4,0 l0,2.2 l-4,0 Z" />
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M67,34 m-2,-1.1 l4,0 l0,2.2 l-4,0 Z" />
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M47,38 m-2,-1.1 l4,0 l0,2.2 l-4,0 Z" />
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M61,38 m-2,-1.1 l4,0 l0,2.2 l-4,0 Z" />
+    </group>
+</vector>
